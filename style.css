@@ -1,0 +1,66 @@
+                    html {
+                        position: relative;
+                    }
+                    
+                    body {
+                        margin-bottom: 100px;
+                        background-image: url(img/bg2.jpg);
+                        background-size: cover;
+                        background-repeat: repeat;
+                    }
+                    
+                    body h2 {
+                        color: white;
+                    }
+                    
+                    body h3 {
+                        color: white;
+                    }
+                    body label{
+                        color: white;
+                    }
+                    
+                    hr {
+                        width: 250px;
+                        border-top: 3px solid rgb(224, 221, 221);
+                    }
+                    
+                    section {
+                        min-height: 280px;
+                    }
+                    
+                    .portfolio {
+                        background-color: #eee;
+                    }
+                    
+                    .contact {
+                        min-height: 750px;
+                    }
+                    
+                    body a p:hover {
+                        color:white;
+                        text-decoration: none;
+                    }
+                    
+                    body a p {
+                        color: white;
+                    }
+                    
+                    footer {
+                        position: absolute;
+                        bottom: 0;
+                        text-align: center;
+                    }
+                    
+                    p {
+                        color: white;
+                        text-align: center;
+                    }
+                    
+                    p a {
+                        color: white;
+                    }
+                    
+                    p a:hover {
+                        color: white;
+                    }
